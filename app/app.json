@@ -28,7 +28,8 @@
         {
           "enableRemoteNotifications": false
         }
-      ]
+      ],
+      "expo-status-bar"
     ]
   }
 }
